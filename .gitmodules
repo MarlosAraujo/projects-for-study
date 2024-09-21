@@ -1,0 +1,3 @@
+[submodule "fsw-dashboard-basic"]
+	path = fsw-dashboard-basic
+	url = https://github.com/MarlosAraujo/1-dashboard-basic.git
