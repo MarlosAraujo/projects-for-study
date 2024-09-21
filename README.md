@@ -1,6 +1,6 @@
 # Projeto Geral de Estudos
 
-# Projetos Desenvolvidos durante Estudos
+### Projetos Desenvolvidos durante Estudos
 
 ## 1. [Dashboard Basico](https://github.com/MarlosAraujo/1-dashboard-basic)
 
