@@ -14,6 +14,6 @@
 - Docker  
 
 **Descrição:**  
-Uma aplicação web desenvolvida para gerenciar serviços e variações de agendamento de uma barbearia. O foco está na interface de fácil uso para clientes e funcionários, com autenticação via Google e integração de serviços em tempo real.
+Uma aplicação web desenvolvida para gerenciar vendas de produtos. O foco está na interface de fácil uso para visualizar através da dashboard.
 
 ---
